@@ -1,0 +1,59 @@
+<li style="top: 0px; display: block; position: absolute; height: 485px;" id="page_Catalogue">
+						<div class="pad">
+							<a href="#close" class="close"><span style="opacity: 0;"></span></a>
+								<div class="col1">
+									<div class="gallery_big_img">
+										<img style="opacity: 1; display: block;" src="images/big_img1.jpg" alt="" class="img1" id="active">
+										<img id="" style="opacity: 0; display: none;" src="images/big_img2.jpg" alt="" class="img2">
+										<img id="" style="opacity: 0; display: none;" src="images/big_img3.jpg" alt="" class="img3">
+										<img style="opacity: 0;" src="images/big_img4.jpg" alt="" class="img4">
+										<img style="opacity: 0;" src="images/big_img5.jpg" alt="" class="img5">
+									</div>
+								</div>
+								<div class="col1 pad_left1">
+									<h2>Projects Gallery</h2>
+									<div id="caption">
+										<ul>
+											<li id="active" style="opacity: 1; display: block;" class="img1">
+												<p class="pad_bot1"><strong>Project Name 1</strong><br>
+														Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum tet clita kasd gubergren, no sea takimata.</p>
+												<p>Danctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit tempor invidunt ut labore.</p>
+											</li>
+											<li id="" style="opacity: 0; display: none;" class="img2">
+												<p class="pad_bot1"><strong>Project Name 2</strong><br>
+														Sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum tet clita kasd gubergren, no sea takimata.</p>
+												<p>Est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit tempor invidunt ut labore.</p>
+											</li>
+											<li id="" style="opacity: 0; display: none;" class="img3">
+												<p class="pad_bot1"><strong>Project Name 3</strong><br>
+														Elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum tet clita kasd gubergren, no sea takimata.</p>
+												<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit tempor invidunt ut labore.</p>
+											</li>
+											<li style="opacity: 0; display: none;" class="img4">
+												<p class="pad_bot1"><strong>Project Name 4</strong><br>
+														Sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum tet clita kasd gubergren, no sea takimata.</p>
+												<p>Ipsum dolor sit amet. Lorem ipsum dolor sit tempor invidunt ut labore.</p>
+											</li>
+											<li style="opacity: 0; display: none;" class="img5">
+												<p class="pad_bot1"><strong>Project Name 5</strong><br>
+														Diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum tet clita kasd gubergren, no sea takimata.</p>
+												<p>Dolor sit amet. Lorem ipsum dolor sit tempor invidunt ut labore.</p>
+											</li>
+										</ul>
+									</div>
+									<div class="relative">
+										<div style="visibility: visible; overflow: hidden; position: relative; z-index: 2; left: 0px; width: 390px;" id="gallery1">
+											<ul style="margin: 0px; padding: 0px; position: relative; list-style-type: none; z-index: 1; width: 1430px; left: -390px;"><li style="overflow: hidden; float: left; width: 120px; height: 100px;"><a href="#img3"><img src="images/gallery_thumb3.jpg" alt=""></a></li><li style="overflow: hidden; float: left; width: 120px; height: 100px;"><a href="#img4"><img src="images/gallery_thumb4.jpg" alt=""></a></li><li style="overflow: hidden; float: left; width: 120px; height: 100px;"><a href="#img5"><img src="images/gallery_thumb5.jpg" alt=""></a></li>
+												<li style="overflow: hidden; float: left; width: 120px; height: 100px;"><a href="#img1"><img src="images/gallery_thumb1.jpg" alt=""></a></li>
+												<li style="overflow: hidden; float: left; width: 120px; height: 100px;"><a href="#img2"><img src="images/gallery_thumb2.jpg" alt=""></a></li>
+												<li style="overflow: hidden; float: left; width: 120px; height: 100px;"><a href="#img3"><img src="images/gallery_thumb3.jpg" alt=""></a></li>
+												<li style="overflow: hidden; float: left; width: 120px; height: 100px;"><a href="#img4"><img src="images/gallery_thumb4.jpg" alt=""></a></li>
+												<li style="overflow: hidden; float: left; width: 120px; height: 100px;"><a href="#img5"><img src="images/gallery_thumb5.jpg" alt=""></a></li>
+											<li style="overflow: hidden; float: left; width: 120px; height: 100px;"><a href="#img1"><img src="images/gallery_thumb1.jpg" alt=""></a></li><li style="overflow: hidden; float: left; width: 120px; height: 100px;"><a href="#img2"><img src="images/gallery_thumb2.jpg" alt=""></a></li><li style="overflow: hidden; float: left; width: 120px; height: 100px;"><a href="#img3"><img src="images/gallery_thumb3.jpg" alt=""></a></li></ul>
+										</div>
+										<a href="#" class="prev"><span style="opacity: 0;"></span></a>
+										<a href="#" class="next"><span style="opacity: 0;"></span></a>
+									</div>
+								</div>
+						</div>
+					</li>
